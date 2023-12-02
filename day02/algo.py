@@ -50,7 +50,7 @@ for game in games:
         valid_IDs.append(game['ID'])
 
 
-print(sum(valid_IDs))  # first part of the challenge
+print('first part : ', sum(valid_IDs))  # first part of the challenge
 
 # second part
 
@@ -73,7 +73,4 @@ for game in games:
     sum += get_max_values(game["steps"])
 
 
-print(sum)
-
-
-# print(json.dumps(games))
+print('second part : ', sum)
