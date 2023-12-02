@@ -1,3 +1,8 @@
+<center>
+
+![advent of code logo](adventOfCode.png)
+
+</center>
 # AdventOfCode (`AOC`) 2023
 
 Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like. People use them as interview prep, company training, university coursework, practice problems, a speed contest, or to challenge each other.
@@ -15,3 +20,7 @@ So, in fact that `AOC` is an advent calendar of puzzles (which are problem to so
 > Not that if you are a programmer you solve more algoithme to be strong in problem solving.
 
 `I did not mention it but this event star on 1st december and end on 25th december, every years sins 2015.`
+
+## language
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
